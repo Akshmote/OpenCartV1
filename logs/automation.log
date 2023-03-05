@@ -1,0 +1,5 @@
+13:32:25.731 [main] INFO  testCases.TC_001_AccountRegistrationTest - *** Staring TC_001_AccountRegistrationTest *** 
+13:32:25.854 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on MyAccount link
+13:32:26.620 [main] INFO  testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+13:32:26.629 [main] INFO  testCases.TC_001_AccountRegistrationTest - Providing customer data
+13:32:38.035 [main] ERROR testCases.TC_001_AccountRegistrationTest - Test failed
